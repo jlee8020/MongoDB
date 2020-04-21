@@ -1,4 +1,4 @@
-## What is Atlas		
+        ## What is Atlas		
 		- Atlas is MongoDB's database as a service solution.
 		- It provides functionality to set up your database in the cloud without needing to configure the fine details yourself manually using the Shell.
 		- Handles replication, which means your database maintains redundant copies of data to increase availability.
